@@ -60,7 +60,7 @@
 <body>
     <header>
         <h1>BIENVENIDOS </h1>
-        <h1> calzado narvaez castro </h1>
+        
     
 
 
@@ -81,8 +81,7 @@ background-color:38F527 ;
 <body>
 
   <div class="contenedor-texto">
-    <h1>precio,estilo y comodida </h1>
-    <p>donde la calidad nunca pasa de moda </p>
+
   </div>
 
 </body>
@@ -94,7 +93,7 @@ background-color:38F527 ;
 
 
 <a href="https://ice2606.github.io/pagina-002/" class="boton-verde">
-  <button>Ir a catalogo </button>
+  <button>Ir atras </button>
 </a>
 
 <style>
