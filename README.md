@@ -141,7 +141,7 @@ background-color:38F527 ;
 </head>
 <body>
 
-  <p>Este es un texto que se ve sobre la imagen de fondo.</p>
+  
 
 </body>
 </html>
