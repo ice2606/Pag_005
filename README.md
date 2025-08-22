@@ -281,7 +281,7 @@ chinelas nike en rojo
   <div class="cuadro-producto">
     <img src="04.jpg" alt="Foto del Producto" class="foto-producto">
     <div class="descripcion-producto">
-     chinelas nikecon diseño
+     chinelas nike con diseño
     </div>
     <a href="https://wa.me/50589906649?text=Hola%2C%20me%20interesa%20el%20producto%20de%20tu%20sitio%20web." class="whatsapp-link" target="_blank">
       Consultar por WhatsApp
